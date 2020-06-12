@@ -1,0 +1,46 @@
+
+
+
+h2 {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 70px;
+    color: rgb(214, 214, 96);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+}
+
+header {
+    width: 100vw;
+    height: 60px;
+    background: grey;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+    padding:0px 30px;
+}
+
+nav {
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 25vw;
+    height: 60px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.banner {
+    width: 100vw;
+    height: 25vh;
+    background: black;
+    display: flex;
+    justify-content: center;
+}
